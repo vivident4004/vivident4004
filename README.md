@@ -16,7 +16,7 @@ Computer engineering graduate who decided to relearn everything starting from `w
 
 ## Synopsis
 
-[vivident4004] [--peer-learning] [--no-teachers] [--norm]
+vivident4004 [--peer-learning] [--deep-focus] [--norm]
 
 
 ## Description
@@ -46,6 +46,11 @@ Common core [████████████░░░░░░] circle 4 / 
 | 3      | [fly-in](https://github.com/vivident4004/fly-in)                 | air traffic control for drones: graphs, capacities, strategic waiting                                 | `[125]` |
 | 3      | [call_me_maybe](https://github.com/vivident4004/call_me_maybe)   | forcing a tiny llm to speak json, one token at a time                                                 | `[115]` |
 | 4      | [pac-man](https://codeberg.org/vivident4004/42man)               | ghosts, pacgums, algorithms, and the classic arcade vibes                                             |         |
+
+Other cool projects:
+| type | project                                              | descriptio                                                               |   grade |
+| :--- | :--------------------------------------------------- |:------------------------------------------------------------------------ | ------: |      
+| rush | [ft_shmup](https://github.com/vivident4004/ft_shmup) | a classic shoot 'em up playable on a terminal written in C++ and ncurses; written in two days | `[125]` |
 
 ## Stack
 
