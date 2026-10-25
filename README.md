@@ -10,7 +10,7 @@ Student at [42 Firenze](https://www.42firenze.it/).
 Computer engineering graduate who decided to relearn everything starting from `write(1, "a", 1)`.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=FFFFFF&vCenter=true&width=520&lines=compiling+myself+from+scratch;peer+reviewed%2C+never+lectured;norminette+compliant+since+2025">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=FFFFFF&vCenter=true&width=520&lines=compiling+myself+from+scratch;peer+reviewed;love+hacking+myself+out+of+problems;norminette+compliant+since+2025">
   <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=000000&vCenter=true&width=520&lines=compiling+myself+from+scratch;peer+reviewed%2C+never+lectured;norminette+compliant+since+2025">
 </picture>
 
@@ -49,7 +49,7 @@ Common core [████████████░░░░░░] circle 4 / 
 
 ## Stack
 
-![Stack](https://skillicons.dev/icons?i=c,cpp,python,java,mysql,bash,git,vim,linux,docker,postgresql,django,angular&theme=light&perline=9)
+![Stack](https://skillicons.dev/icons?i=c,cpp,python,java,mysql,bash,git,vim,linux,docker,postgresql,django,angular&theme=light)
 
 ![Power BI](https://img.shields.io/badge/power%20bi-000?style=flat-square&logo=powerbi&logoColor=white)
 ![VBA](https://img.shields.io/badge/vba-000?style=flat-square&logo=microsoftexcel&logoColor=white)
