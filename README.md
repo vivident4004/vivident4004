@@ -21,12 +21,10 @@ vivident4004 [--peer-learning] [--deep-focus] [--norm]
 
 ## Description
 
-I hold a bachelor's degree in computer engineering from Università di Firenze.
-University taught me why things work. 42 is teaching me how to make them work and what happens when they don't.
+I hold a bachelor's degree in Computer engineering from Università di Firenze.
+University taught me why things work; 42 is teaching me how to make them work and what happens when they don't.
 
-No lectures, no teachers, no slides. every project is pass or fail, defended in front of other students who try to break it then graded by an automated tester.
-
-I write C because it forgives nothing, C++ because i wanted classes with consequences, Python for A.I. projects and for when I need something before lunch. I use agentic tools (Claude Code, Codex, Hermes agent) with custom skills for the repetitive parts, never for the thinking.
+I like C because it forgives nothing but gives me everything. I use agentic tools (Claude Code, Codex, Hermes agent) with custom skills for the repetitive parts, never for the thinking.
 
 ## Projects
 
@@ -70,7 +68,7 @@ Other cool projects:
 
 ## Bugs
 
-Known to rewrite a perfectly working function because the norm allows 25 lines, not 26.
+Known to rewrite a perfectly working function because the norm allows only 25 lines.
 Occasionally mutters `valgrind` in his sleep.
 
 ## Exit status
