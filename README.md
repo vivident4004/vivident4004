@@ -43,7 +43,7 @@ Common core [████████████░░░░░░] circle 4 / 
 | 3      | [codexion](https://github.com/vivident4004/codexion)             | threads, mutexes, and why nobody should share forks                                                   | `[100]` |
 | 3      | [fly-in](https://github.com/vivident4004/fly-in)                 | air traffic control for drones: graphs, capacities, strategic waiting                                 | `[125]` |
 | 3      | [call_me_maybe](https://github.com/vivident4004/call_me_maybe)   | forcing a tiny llm to speak json, one token at a time                                                 | `[115]` |
-| 4      | [pac-man](https://codeberg.org/vivident4004/42man)               | ghosts, pacgums, algorithms, and the classic arcade vibes                                             |         |
+| 4      | [pac-man](https://codeberg.org/etturo/PacMan)                    | ghosts, pacgums, algorithms, and the classic arcade vibes                                             | `[100]` |
 
 Other cool projects:
 | type | project                                              | descriptio                                                               |   grade |
